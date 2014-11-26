@@ -13,7 +13,7 @@ Rock Paper Scissors game excersice without conditions
 
 3. run the game
 
-	java com.company.Main
+	java Main
 	
 4. How to play
 
